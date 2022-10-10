@@ -8,5 +8,5 @@ Rest Api java spring boot
  - Update dependency in pom.xml 
  - Run application `jdk 11.0.16` using spring boot
  - port used `9090`  
- -we can all url `localhost:9090/v3/api`
+ -we can get all url `localhost:9090/v3/api`
  
